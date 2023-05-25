@@ -1,0 +1,20 @@
+{
+  "QuoteDate": "5/7/2023 12:12:54 AM",
+  "CustomerFullName": "jdemo",
+  "DeskWidth": "24",
+  "DeskDepth": "12",
+  "NumDrawers": 1,
+  "DeskMat": "Oak",
+  "RushOrder": "5 day",
+  "QuoteTotal": 490.0
+}
+{
+  "QuoteDate": "5/7/2023 12:12:54 AM",
+  "CustomerFullName": "jdemotwo",
+  "DeskWidth": "24",
+  "DeskDepth": "12",
+  "NumDrawers": 0,
+  "DeskMat": "Rosewood",
+  "RushOrder": "14 day regular",
+  "QuoteTotal": 500.0
+}
